@@ -10,7 +10,7 @@ A Web Application (Tenacity) allows the students maintain their CVs. (Mobile dev
 **TO USE**
 
 Install Xampp Server<BR>
-Clone the repository git clone https://github.com/arpitjainds/shikayat.git<BR>
+Clone the repository git clone https://github.com/arpitjainds/cv-management.git<BR>
 Run the Apache server<BR>
 Start the project with index.html<BR>
 
